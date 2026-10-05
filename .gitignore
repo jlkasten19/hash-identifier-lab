@@ -1,0 +1,7 @@
+# Keep editor backups and local transcripts out of the public lab.
+*.log
+*.tmp
+*.bak
+*.transcript.txt
+.vscode/
+.idea/
